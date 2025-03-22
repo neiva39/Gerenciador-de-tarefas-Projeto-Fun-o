@@ -66,7 +66,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para m
 5. **Contribuindo**: Passos para quem quiser contribuir com o projeto.
 6. **Licença**: Espaço para a licença (no caso, foi sugerida a MIT).
 
-Esse formato é bem comum em projetos open-source para dar uma visão clara do funcionamento e ajudar desenvolvedores a interagir ou contribuir. Se precisar de algo mais específico, é só avisar!
+
 
 
 
